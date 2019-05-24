@@ -1,4 +1,4 @@
 This is a record of c and algorithm with studying.
 
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
 
